@@ -50,3 +50,8 @@ Microcontroller ↔ FPGA data exchange
 Embedded systems prototyping
 
 Digital design and HDL learning resource
+
+Output-<img width="806" height="208" alt="image" src="https://github.com/user-attachments/assets/8a6a76b1-cfad-4761-bc05-3ec480d6a351" />
+Waveform-<img width="1837" height="524" alt="image" src="https://github.com/user-attachments/assets/9f42086c-e75a-4a4b-b8c9-aea66be82e76" />
+
+
